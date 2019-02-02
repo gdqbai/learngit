@@ -37,4 +37,5 @@ read -p "Please input menu num[0-3]:" NUM
 		}
 
 }
-exit 0
+##test
+##by dongliqiang at 2019/02/02
